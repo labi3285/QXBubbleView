@@ -1,8 +1,8 @@
 # QXBubbleView
 ## A customizable bubble view.
 
-### usage
-![](https://github.com/labi3285/QXBubbleView/blob/master/screen_short.png)  
+### usage:
+![](https://github.com/labi3285/QXBubbleView/blob/master/screen_short.png)  
 ```swift
 let bubbleView = QXBubbleView()
 bubbleView.arrowPossition = .topLeft
