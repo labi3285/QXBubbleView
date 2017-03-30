@@ -3,7 +3,7 @@
 
 ###usage
 ![](https://github.com/labi3285/QXBubbleView/master/screen_short.png)  
-```objc
+```swift
 let bubbleView = QXBubbleView()
 bubbleView.arrowPossition = .topLeft
 bubbleView.color = UIColor.black
